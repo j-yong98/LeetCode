@@ -1,0 +1,16 @@
+select *
+from (    
+    select id, sum(c) num
+    from ( 
+        select requester_id id, count(*) c
+        from RequestAccepted
+        group by requester_id
+        union all
+        select accepter_id id, count(*) c
+        from RequestAccepted 
+        group by accepter_id
+    )
+    group by id
+    order by num desc
+)
+where rownum <= 1;
