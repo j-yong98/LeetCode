@@ -11,4 +11,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0181-employees-earning-more-than-their-managers](https://github.com/j-yong98/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0185-department-top-three-salaries](https://github.com/j-yong98/LeetCode/tree/master/0185-department-top-three-salaries) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/j-yong98/LeetCode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/j-yong98/LeetCode/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/j-yong98/LeetCode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
